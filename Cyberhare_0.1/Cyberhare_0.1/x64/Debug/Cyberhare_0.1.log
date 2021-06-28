@@ -1,0 +1,37 @@
+﻿  Body_Default.cpp
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Optics.h(14,31): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Bodies.h(14,28): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  HackerOptics.cpp
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Bodies.h(14,28): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Optics.h(14,31): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  Hare.cpp
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Optics.h(14,31): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Bodies.h(14,28): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Hare.cpp(22,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Hare.cpp(23,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Hare.cpp(24,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Hare.cpp(26,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Hare.cpp(112,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Item.cpp
+  MilitaryOptics.cpp
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Bodies.h(14,28): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Optics.h(14,31): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  Paws_Default.cpp
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Optics.h(14,31): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Bodies.h(14,28): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  Shotgun.cpp
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Optics.h(14,31): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Bodies.h(14,28): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  SniperOptics.cpp
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Bodies.h(14,28): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Optics.h(14,31): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  Source.cpp
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Optics.h(14,31): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Bodies.h(14,28): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Source.cpp(143,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Source.cpp(202,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Source.cpp(203,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Source.cpp(208,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\Cyberhare_0.1\Hare.cpp(226): warning C4715: Hare::Shot: значение возвращается не при всех путях выполнения
+  Cyberhare_0.1.vcxproj -> D:\ВСЁ\работа\киберпанк\Cyberhare_0.1\x64\Debug\Cyberhare_0.1.exe
